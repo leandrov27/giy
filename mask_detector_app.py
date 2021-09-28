@@ -1,7 +1,7 @@
 import numpy as np
 from training import config_tr
 import streamlit as st
-from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
+import streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 
 from typing import List, Tuple
 
