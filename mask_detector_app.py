@@ -1,7 +1,8 @@
 import numpy as np
 from training import config_tr
 import streamlit as st
-import streamlit_webrtc import webrtc_streamer, VideoTransformerBase
+import numpy as np
+import pandas as pd
 
 from typing import List, Tuple
 
