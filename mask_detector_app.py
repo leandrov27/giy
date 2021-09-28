@@ -1,5 +1,5 @@
 import numpy as np
-import tensorflow as tf
+import tensorflow
 from training import config_tr
 import streamlit as st
 import cv2
