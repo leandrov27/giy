@@ -1,6 +1,4 @@
 import tensorflow as tf
-from tensorflow.keras.layers import Dense, Flatten, Conv2D
-from tensorflow.keras import Model
 import numpy as np
 from training import config_tr
 import streamlit as st
