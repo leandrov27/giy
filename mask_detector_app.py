@@ -1,5 +1,5 @@
 import numpy as np
-import tensorflow as tf
+import tensorflow
 from tensorflow import keras
 from tensorflow.keras import layers
 from training import config_tr
