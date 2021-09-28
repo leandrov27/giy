@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 from training import config_tr
 import streamlit as st
-import cv2
+import cv2 as cv
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 
 from typing import List, Tuple
