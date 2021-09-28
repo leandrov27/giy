@@ -1,9 +1,8 @@
-import face_recognition
 import numpy as np
 import tensorflow as tf
 from training import config_tr
 import streamlit as st
-import cv2 as cv
+import cv2
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 
 from typing import List, Tuple
