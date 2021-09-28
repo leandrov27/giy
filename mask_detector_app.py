@@ -1,4 +1,7 @@
 import numpy as np
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
 from training import config_tr
 import streamlit as st
 import numpy as np
