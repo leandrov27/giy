@@ -4,7 +4,7 @@ import tensorflow as tf
 from training import config_tr
 import streamlit as st
 import cv2
-from streamlit_webrtc 
+from streamlit
 import webrtc_streamer, VideoTransformerBase
 
 from typing import List, Tuple
