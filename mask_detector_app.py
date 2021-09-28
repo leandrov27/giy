@@ -1,5 +1,4 @@
 import numpy as np
-import tensorflow
 from training import config_tr
 import streamlit as st
 import cv2
